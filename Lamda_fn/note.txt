@@ -1,0 +1,5 @@
+lamda fn is a oneline fn without name (anonymous)
+
+----syntax----
+
+lamda parameter1,parameter1....parametern: expression

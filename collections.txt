@@ -1,0 +1,32 @@
+oops- bringing real world entities to programming using classes and objects
+
+mutable-can update
+
+non-mutable-cnnont update
+
+collections
+
+string()-grp of characters
+
+list[]-organize grp of objects...allow duplicates...ordered..can use indexing...
+
+set{}- mutable.....unodered...no duplicates
+
+tuple()-same as list..but cnnont update(unmutable)
+
+dictionary-it is a key:value pair...key is unique...value is mutable
+
+dict1={"key":"value","key":"value","key":"value","key":"value","key":"value"}
+
+update>>>> dict_name["key"]="value"
+
+.get() - return the value in the key...return none if no values there
+
+.pop()- delete the key-value pair
+
+.keys - get only the keys
+
+.values - get only the values
+
+.items - get the key-value pair
+

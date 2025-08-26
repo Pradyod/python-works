@@ -1,0 +1,12 @@
+it is an easy way to create list,set,dictionary from an iterable
+
+----syntax----
+
+[expression iteration condition(optional)]
+
+
+mapping -- all inputs have corresponding outputs..
+
+filtering -- filtering the outputs..
+
+reduce--- have only one output

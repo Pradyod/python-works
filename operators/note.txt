@@ -1,0 +1,11 @@
+Arithemtic Operators(+,-,*,/,//,**,%)
+
+Assignment Operators(+=,-=,*=,/=,=,%=,**=,)
+
+Comparison(Realational) Operators(<,>,<=,>=,==,!=)
+
+Logical Operators(and,or,not)
+
+Identity Operators(is,not is)
+
+Membership Operators(in,not in)

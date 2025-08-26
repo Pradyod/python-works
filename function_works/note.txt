@@ -1,0 +1,6 @@
+funtions - block of statemennts to perform explicit process
+
+def function_name(para1,para2):
+    fn body;
+
+function_name(para1,para2)
