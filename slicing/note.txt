@@ -1,0 +1,4 @@
+extract one part from a sequence 
+sequence [start:stop:step]
+
+reverse
