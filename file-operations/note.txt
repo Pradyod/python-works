@@ -1,0 +1,12 @@
+files are used to store data
+eg txt,json
+
+----operations----
+
+read---> read the data in the file (r)
+write---> overwrites the data in the file (w) if the file doesnt exist py creates it.
+append---> append data with the existing data in the file (a)  
+
+----syntax----
+
+variable_name=open("filepath","mode")

@@ -6,3 +6,6 @@ words=["word","madam","racecar","car"]
 
 ke=[w for w in words if w==w[::-1]]
 print(ke)
+
+rev=ke[::-1]
+print(ke)
