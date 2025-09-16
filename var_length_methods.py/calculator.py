@@ -1,0 +1,17 @@
+class Calculator:
+
+    def operation(self,*args,**kwargs):
+
+        if kwargs.get("op")=="+":
+
+            return args[0]+args[1]
+        
+        if kwargs.get('op')=="-":
+
+            return args[0]-args[1]
+        
+calculator_ints=Calculator()
+
+print(calculator_ints.operation(10,20,op="+"))
+
+print(calculator_ints.operation(10,20,op="-"))

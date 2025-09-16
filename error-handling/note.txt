@@ -1,0 +1,21 @@
+synatx error
+run time error - exception handling
+
+try 
+expect
+finally
+raise---
+        ------keywords
+assert---
+
+
+try:
+    doubtful code
+
+expect:
+    handling code
+
+
+raise - custom errors
+
+assert- debugging errors
