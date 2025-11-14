@@ -1,4 +1,4 @@
-def exponent(num1,num2=1):
+def exponent(num1,num2=2):
     return num1**num2
-
-print(exponent(2))
+num = int(input("enter a no"))
+print(exponent(num))

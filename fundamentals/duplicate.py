@@ -2,8 +2,10 @@ arr=[10,11,12,13,11,10,14]
 
 temp=[]
 
-for i in arr(0,len(arr)):
+for i in arr:
     if i in temp:
         break
     else:
-        arr[i]+=temp
+        temp.append(i)
+
+print("no duplicate elements:",temp)

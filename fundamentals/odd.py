@@ -1,3 +1,6 @@
-num=int(input("enter number"))
+num =int(input("enter a num"))
 
-print(rem!=0)
+if num%2==1:
+    print("it is an odd number")
+else:
+    print("wrong num")

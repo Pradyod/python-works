@@ -6,7 +6,7 @@ sub_5=int(input("enter the mark"))
 
 result=sub_1+sub_2+sub_3+sub_4+sub_5/5
 
-print(result)
+print(int(result))
 
 if result>=90 and result>100:
     print("A Grade")

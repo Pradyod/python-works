@@ -7,6 +7,7 @@ count=len(str(num))
 sum=0
 
 while num!=0:
+
     digit= num%10
 
     exponent=digit**count
@@ -16,8 +17,11 @@ while num!=0:
     num=num//10
 
 if sum==temp:
+
     print("Armstrong")
+    
 else:
+
     print("Not Armstrong")
 
 #store the num in another variable

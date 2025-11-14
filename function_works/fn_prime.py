@@ -1,8 +1,17 @@
 def prime_py(prime):
 
-    if prime%1==0 and prime%prime==0:
-        return f"{prime} is a prime no"
-    else:
-        return f"{prime} is not prime no"
+    prime = int(input('enter a no'))
 
-print(prime_py(9))
+    is_prime = True
+
+    for i in range(2,prime):
+
+        if prime%1==0:
+
+            is_prime=False
+            break
+
+    result = "prime no" if is_prime ==True else "not prime"
+
+    prime_py()
+
